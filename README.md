@@ -9,8 +9,9 @@
 
 ## Encontre-me:
 
+<a href="https://www.instagram.com/eeduardo_ls/">![image](https://github.com/EduardoL28/EduardoL28/assets/146947071/84d6dd1d-7f1e-4397-a80b-fbb23d1af251)</a>
 
-![image](https://github.com/EduardoL28/EduardoL28/assets/146947071/84d6dd1d-7f1e-4397-a80b-fbb23d1af251)
+
 ![image](https://github.com/EduardoL28/EduardoL28/assets/146947071/fcbbda59-2ee2-4811-890e-96df093a1aef)
 
 
