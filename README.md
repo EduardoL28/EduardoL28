@@ -28,13 +28,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Tenho 19 anos atualmente e comecei ocurso de desenvolvimento web FullStack em 2023</strong>. <br>
+  No momento atuo como barista em cafeterias, mas me apaixonei pela área da programação e pretendo trabalhar com isso.
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: **aprendizagem contínua.**
 </p>
 
 <p align="left">
