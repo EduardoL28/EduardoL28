@@ -4,8 +4,7 @@
 
 ## Tecnologias que estou aprendendo:
 
-![image](https://github.com/EduardoL28/EduardoL28/assets/146947071/fc873985-1039-4719-bfb2-5ab48bd6ab61)
-![image](https://github.com/EduardoL28/EduardoL28/assets/146947071/72a26757-945a-48e9-835c-c891edd0994d)
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ## Encontre-me:
 
