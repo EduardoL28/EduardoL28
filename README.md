@@ -1,4 +1,4 @@
-<img align="left" width="270px" height="320px" src="https://github.com/EduardoL28/EduardoL28/assets/146947071/cb17e114-144d-422b-baf8-d86dd889187a">
+<img align="left" width="280px" height="320px" src="https://github.com/EduardoL28/EduardoL28/assets/146947071/cb17e114-144d-422b-baf8-d86dd889187a">
 
 ## Olá Mundo! Meu nome é Eduardo Lemos e estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social!
 
@@ -16,8 +16,8 @@
 
 <div  align="left" style="margin-bottom:100px">
 
- <img width=28% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=EduardoL28&show_icons=true&theme=radical&layout=compact" />
-<img width=33.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoL28&theme=radical&mode=weekly" />
+ <img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=EduardoL28&show_icons=true&theme=radical&layout=compact" />
+<img width=53% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoL28&theme=radical&mode=weekly" />
 
  </div>
 
