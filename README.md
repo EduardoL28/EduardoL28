@@ -16,8 +16,8 @@
 
 <div  align="left" style="margin-bottom:100px">
 
- <img width=28.9% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=EduardoL28&show_icons=true&theme=radical&layout=compact" />
-<img width=34.4% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoL28&theme=radical&mode=weekly" />
+ <img width=290em align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=EduardoL28&show_icons=true&theme=radical&layout=compact" />
+<img width=347em align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoL28&theme=radical&mode=weekly" />
 
  </div>
 
