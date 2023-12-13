@@ -1,4 +1,4 @@
-<img align="left" width="270px" height="300px" src="https://github.com/EduardoL28/EduardoL28/assets/146947071/cb17e114-144d-422b-baf8-d86dd889187a">
+<img align="left" width="270px" height="320px" src="https://github.com/EduardoL28/EduardoL28/assets/146947071/cb17e114-144d-422b-baf8-d86dd889187a">
 
 ## Olá Mundo! Meu nome é Eduardo Lemos e estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social!
 
