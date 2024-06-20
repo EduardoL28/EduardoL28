@@ -27,7 +27,7 @@
 
 
 <p align="left"> 
-  <strong>✨ Tenho 19 anos atualmente e comecei o curso de desenvolvimento web FullStack pelo IOS em 2023 ✨</strong>. <br>
+  <strong>✨ Tenho 20 anos atualmente, e comecei o curso de desenvolvimento web FullStack pelo IOS em 2023 ✨</strong>. <br>
   No momento atuo como barista em cafeterias, mas me apaixonei pela área da programação e pretendo trabalhar com isso.
 </p>
  
